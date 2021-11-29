@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🧒 Graduate Student in SEU
+
+- 🔭 I’m currently working on Blockchain Interoperability
+- ⚡ Fun fact: emmmmmm
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true">
