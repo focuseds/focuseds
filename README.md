@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📍 [HERE](https://focuseds.github.io/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true"> -->
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="focuseds's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=focuseds&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- | -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="focuseds's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=focuseds&layout=compact&theme=buefy&hide_border=true&exclude_repo=focuseds.github.io" /> |
+| ------------- | ------------- |
