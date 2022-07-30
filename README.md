@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true"> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="focuseds's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=focuseds&layout=compact&theme=buefy&hide_border=true&exclude_repo=focuseds.github.io" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=focuseds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="focuseds's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=focuseds&layout=compact&theme=buefy&hide_border=true&exclude_repo=focuseds.github.io" /> |
 | ------------- | ------------- |
