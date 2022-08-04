@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🧒 Graduate Student in SEU
 
 - 🔭 I’m currently working on Blockchain Interoperability
-- ⚡ Fun fact: emmmmmm
 
 📍 [HERE](https://focuseds.github.io/)
 
