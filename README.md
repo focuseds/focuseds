@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧒 Graduate Student in SEU
+🧒
 
 - 🔭 I’m currently working on Blockchain Interoperability
 
