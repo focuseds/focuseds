@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🧒
 
-- 🔭 I’m currently working on Blockchain Interoperability
+- 🔭 I’m currently working on Blockchain Security
 
 📍 [HERE](https://focuseds.github.io/)
 
